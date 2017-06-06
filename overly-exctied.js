@@ -20,4 +20,4 @@ addExcitement(sentence)
 		console.log("! every 3", sentence );
 	};
 
-console.log("hellow", hellow);
+	
